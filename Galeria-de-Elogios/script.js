@@ -8,7 +8,7 @@ window.onload = function() {
     "Adoro seu beijo.",
     "Seu abraço é o melhor.",
     "Sua voz é doce.",
-    "Adoro seu sorrizo.",
+    "Adoro seu sorriso.",
     "Eu amo a sua companhia.",
     "Você me faz passar o dia todo pensando em você.",
     "Você me faz rir.",
@@ -31,10 +31,7 @@ window.onload = function() {
     "Me sinto confortavel com você.",
     "Você tem um jeito especial.",
     "Eu confio em você.",
-    "Gosto do nosso jeito romantico e safado.",
-    "Adoro seu gemido.",
-    "Você é uma gostosa.",
-    "Nosso sexo é gostoso."
+    "Gosto do nosso jeito romantico e safado."
 
   ];
 
@@ -69,4 +66,5 @@ window.onload = function() {
   }
 
   document.onclick = showNextCompliment;
+
 };
